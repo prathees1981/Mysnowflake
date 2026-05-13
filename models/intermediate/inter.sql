@@ -1,0 +1,1 @@
+select hotel_id,hotel_city  from HOTEL_DB.PUBLIC.BRONZE_HOTEL_BOOKING
